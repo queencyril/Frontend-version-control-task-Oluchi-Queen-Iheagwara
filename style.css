@@ -17,3 +17,9 @@ h5{
   font-size: 10px;
   color: palevioletred;
 }
+
+p{
+  text-align: center;
+  border: 1px solid red;
+  margin: 20px;
+}
